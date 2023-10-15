@@ -1,5 +1,3 @@
-# The Hazeltine Library
-
 *Preserving the past...*
 
 Browse the [main library,](https://github.com/libhazeltine/libhazeltine) or our copy of the [psipog backup](https://libhazeltine.github.io/psipog-lhz/Start-Here.html).
